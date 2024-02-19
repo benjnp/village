@@ -7,7 +7,9 @@ const Hero = () => {
     <Container className="hero-section">
         <Row>
             <Col lg={5}>
-                Left
+                <div className="hero-left-section">
+                    We are a family-oriented, eco-friendly and flood-safe village right here in Marikina City
+                </div>
             </Col>
             <Col lg={7}>
                 <div className="hero-right-section">
