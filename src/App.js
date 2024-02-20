@@ -5,6 +5,9 @@ import NavBar from './components/NavBar';
 import Hero from './components/Hero';
 import Awards from './components/Awards';
 import News from './components/News';
+import Officers from './components/Officers';
+import ContactUs from './components/ContactUs';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -14,6 +17,9 @@ function App() {
       <Hero />
       <Awards />
       <News />
+      <Officers />
+      <ContactUs />
+      <Footer />
     </div>
   );
 }
